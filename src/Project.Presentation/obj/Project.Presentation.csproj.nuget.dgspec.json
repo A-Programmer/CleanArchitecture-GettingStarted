@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Presentation\\Project.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Application\\Project.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Application\\Project.Application.csproj",
+        "projectName": "Project.Application",
+        "projectPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Application\\Project.Application.csproj",
+        "packagesPath": "C:\\Users\\MrSad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MrSad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Common\\Project.Common.csproj": {
+                "projectPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Common\\Project.Common.csproj"
+              },
+              "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Domain\\Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Domain\\Project.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Common\\Project.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Common\\Project.Common.csproj",
+        "projectName": "Project.Common",
+        "projectPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Common\\Project.Common.csproj",
+        "packagesPath": "C:\\Users\\MrSad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MrSad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Domain\\Project.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Domain\\Project.Domain.csproj",
+        "projectName": "Project.Domain",
+        "projectPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Domain\\Project.Domain.csproj",
+        "packagesPath": "C:\\Users\\MrSad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MrSad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Common\\Project.Common.csproj": {
+                "projectPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Common\\Project.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Presentation\\Project.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Presentation\\Project.Presentation.csproj",
+        "projectName": "Project.Presentation",
+        "projectPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Presentation\\Project.Presentation.csproj",
+        "packagesPath": "C:\\Users\\MrSad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MrSad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Application\\Project.Application.csproj": {
+                "projectPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Application\\Project.Application.csproj"
+              },
+              "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Common\\Project.Common.csproj": {
+                "projectPath": "C:\\Users\\MrSad\\Desktop\\CleanArch\\src\\Project.Common\\Project.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

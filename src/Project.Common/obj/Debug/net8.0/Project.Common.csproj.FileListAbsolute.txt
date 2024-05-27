@@ -1,0 +1,12 @@
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\bin\Debug\net8.0\Project.Common.deps.json
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\bin\Debug\net8.0\Project.Common.dll
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\bin\Debug\net8.0\Project.Common.pdb
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\obj\Debug\net8.0\Project.Common.csproj.AssemblyReference.cache
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\obj\Debug\net8.0\Project.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\obj\Debug\net8.0\Project.Common.AssemblyInfoInputs.cache
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\obj\Debug\net8.0\Project.Common.AssemblyInfo.cs
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\obj\Debug\net8.0\Project.Common.csproj.CoreCompileInputs.cache
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\obj\Debug\net8.0\Project.Common.dll
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\obj\Debug\net8.0\refint\Project.Common.dll
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\obj\Debug\net8.0\Project.Common.pdb
+C:\Users\MrSad\Desktop\CleanArch\src\Project.Common\obj\Debug\net8.0\ref\Project.Common.dll
